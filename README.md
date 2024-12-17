@@ -1,30 +1,26 @@
-<h1 align="center">Hi 👋, I'm Arunkumar S</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Manoj Kumar K</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar204&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumar204" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madjo-hub&label=Profile%20views&color=0e75b6&style=flat" alt="madjo-hub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumar204" alt="arunkumar204" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madjo-hub" alt="madjo-hub" /></a> </p>
 
-- 🔭 I’m currently working on [Yoom Website](https://arun-zoom.vercel.app/)
+- 🌱 I’m currently learning **Devops**
 
-- 🌱 I’m currently learning **Next js and React Native**
+- 💬 Ask me about **Data**
 
-- 👨‍💻 All of my projects are available at [https://arun-threejs-portfolio.netlify.app/](https://arun-threejs-portfolio.netlify.app/)
+- 📫 How to reach me **manojvishwa04@gmail.com**
 
-- 💬 Ask me about **React js**
-
-- 📫 How to reach me **arunkumarame04@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uh59EXt2hfv2xhDXVlTKZo-iN9enpD-U/view?usp=drivesdk]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wlUFzLB6CU_L4fDp6C_wMiJaz_hSGvNc/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arunkumar-s-25b335235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arunkumar-s-25b335235/" height="30" width="40" /></a>
-<a href="https://instagram.com/_mr_ladakh_rider_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_ladakh_rider_03" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/arunkumar_143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/arunkumar_143" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/717821i106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/717821i106" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/_arun23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_arun23/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manojkumar004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manojkumar004/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/manoj_vishwa_04/profilecard/?igsh=MWYzYnJoNmw5ZnBmMw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manoj_vishwa_04" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/kce717821i135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kce717821i135" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/Manoj_Kumar_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Manoj_Kumar_04/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
